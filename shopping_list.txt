@@ -1,9 +1,9 @@
-kompir
+kompir x2
 
-oriz
+oriz x1
 
-voda
+voda x3
 
-sok
+sok x5
 
-margarin
+margarin x6
