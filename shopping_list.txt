@@ -1,6 +1,6 @@
 kompir x2
 
-oriz x1
+oriz x1 ova e na master 
 
 voda x3
 
